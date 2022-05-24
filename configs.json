@@ -1,0 +1,9 @@
+{
+    "activityType": "WATCHING",
+    "activityLink": "https://fivehost.net",
+    "token": "TOKEN",
+    "serverInfo": [
+        "IP (vous pouvez mettre le nom de domaine, mettre le port du serveur en dessous)",
+        30120
+    ]
+}
