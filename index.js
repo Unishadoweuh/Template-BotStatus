@@ -33,7 +33,7 @@ function activity() {
       if (err) {
         console.log(err);
       } else {
-        client.user.setActivity(" online " + data.clients + "/" + data.maxclients,  { type: configs.activityType, url: configs.activityLink });
+        client.user.setActivity(data.clients + " joueurs 💖",  { type: configs.activityType, url: configs.activityLink });
       }
     });
     activity();

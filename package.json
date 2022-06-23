@@ -1,25 +1,17 @@
 {
-  "name": "template-botstatus",
-  "version": "1.0.0",
-  "description": "\"# Template-BotStatus\"",
+  "name": "discord-bot",
+  "productName": "Discord Bot",
+  "version": "0.1.0",
+  "description": "Discord Bot",
   "main": "index.js",
+  "author": {
+    "name": "Bot FIVEM"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Unishadoweuh/Template-BotStatus.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Unishadoweuh/Template-BotStatus/issues"
-  },
-  "homepage": "https://github.com/Unishadoweuh/Template-BotStatus#readme",
   "dependencies": {
-    "bluebird": "^3.7.2",
-    "discord.js": "^13.8.0",
-    "dnode": "^1.2.2",
-    "request": "^2.88.2"
+    "discord.js": "^11.6.4",
+    "fivereborn-query": "^1.0.4"
   }
 }
