@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Unishadoweuh/Template-BotStatus/issues"
   },
-  "homepage": "https://github.com/Unishadoweuh/Template-BotStatus#readme"
+  "homepage": "https://github.com/Unishadoweuh/Template-BotStatus#readme",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "discord.js": "^13.8.0",
+    "dnode": "^1.2.2",
+    "request": "^2.88.2"
+  }
 }
