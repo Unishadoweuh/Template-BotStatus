@@ -1,9 +1,9 @@
 {
     "activityType": "WATCHING",
     "activityLink": "https://fivehost.net",
-    "token": "OTg5NDY0MTQ1NzQzMjEyNTQ3.Ggh-nE.QvFfrF__VeTRr4i33glnfC3YOH73KyLiOtui6I",
+    "token": "TOKEN",
     "serverInfo": [
-        "r9-1.fivehost.net", // Ex: r9-1.fivehost.net etc...
+        "nomdevotrenode",
         30163
     ]
 }
